@@ -1,0 +1,6 @@
+/ell
+/test-ground
+/output-nk
+/pod-nk/logdir
+/pod-nk/__pycache__
+.env
